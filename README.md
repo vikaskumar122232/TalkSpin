@@ -40,6 +40,6 @@ TalkSpin is a cross-platform mobile application built with React Native that all
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/talkspin.git
-cd talkspin
+git clone https://github.com/vikaskumar122232/TalkSpin
+cd Talkspin
 npm install
