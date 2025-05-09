@@ -34,7 +34,7 @@ TalkSpin is a cross-platform mobile application built with React Native that all
 ### Prerequisites
 
 - Node.js >= 14.x
-- React Native CLI
+- React Native expo
 - Android Studio / Xcode (for emulators or device deployment)
 
 ### Installation
